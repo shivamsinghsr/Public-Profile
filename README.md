@@ -1,2 +1,3 @@
 # Public-Profile
 This is my public repo containing my interest and works.
+Hi, I'm Shivam Singh, a student in Data Science at the National Institute of Technology, Patna. With a strong foundation in computer science and a passion for data-driven solutions, I have developed projects including a Catalog Generator, Plagiarism Checker, and a Recharge Pricing Website. My technical skills encompass programming languages like C, C++, JavaScript, Python, and Java, along with web development frameworks such as React.js and Node.js. I'm also skilled in machine learning and AI, with experience in intelligent agents and data analysis. I'm always eager to learn and collaborate on innovative projects!
